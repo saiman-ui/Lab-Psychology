@@ -1,0 +1,27 @@
+﻿Crowded ,0.333333333,,
+Uncrowded,0.833333333,,
+target,condition,key_resp.keys,key_resp.corr
+L,crowded,p,0
+P,uncrowded,p,1
+L,crowded,p,0
+E,crowded,p,0
+H,crowded,t,0
+H,uncrowded,h,1
+P,uncrowded,p,1
+E,uncrowded,f,0
+F,uncrowded,f,1
+L,uncrowded,semicolon,0
+E,crowded,e,1
+H,uncrowded,h,1
+T,uncrowded,t,1
+F,crowded,e,0
+P,crowded,p,1
+E,uncrowded,e,1
+T,uncrowded,t,1
+T,crowded,f,0
+F,crowded,f,1
+P,crowded,p,1
+L,uncrowded,l,1
+F,uncrowded,f,1
+T,crowded,f,0
+H,crowded,l,0

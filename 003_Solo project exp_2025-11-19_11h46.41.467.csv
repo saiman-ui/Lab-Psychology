@@ -1,0 +1,27 @@
+﻿Crowded Accuracy ,0.583333333,,
+Uncrowded Accuracy,0.916666667,,
+target,condition,key_resp.keys,key_resp.corr
+E,uncrowded,e,1
+H,crowded,h,1
+P,crowded,p,1
+F,uncrowded,f,1
+E,crowded,e,1
+H,uncrowded,h,1
+P,crowded,p,1
+L,uncrowded,l,1
+E,crowded,e,1
+T,crowded,f,0
+L,uncrowded,l,1
+T,uncrowded,l,0
+H,uncrowded,h,1
+T,crowded,h,0
+E,uncrowded,e,1
+T,uncrowded,t,1
+F,uncrowded,f,1
+P,uncrowded,p,1
+F,crowded,e,0
+F,crowded,e,0
+L,crowded,l,1
+L,crowded,l,1
+H,crowded,t,0
+P,uncrowded,p,1
